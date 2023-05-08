@@ -11,6 +11,7 @@ How to use:
 - It is needed to fill the External script variables.
 - ![image](https://user-images.githubusercontent.com/71565433/236815679-15561aa6-0581-4dfb-9bec-d285c4b044e0.png)
 - The data is being saved in the "res://addons/movement_tracker/Data/" folder.
-- The ouptut is a USER_<counter>_<DATE>.txt file.
+- The ouptut is a USER_counter_DATE.txt file.
+- The Jitter is calculated by Standard Deviation. The deviation of the position of VR glasses and controllers in physical and virtual space can be measured.
 
 Created in the BioTech Research Center at Óbuda University.
