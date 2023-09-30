@@ -1,0 +1,2 @@
+Total clicks: 39
+Total button interactions: 20

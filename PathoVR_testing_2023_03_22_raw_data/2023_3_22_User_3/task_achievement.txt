@@ -1,0 +1,14 @@
+time,task_completion
+14:59:14,start
+14:59:21,page_1_task_1
+14:59:26,page_1_task_2
+14:59:42,page_2_task_1
+14:59:44,page_2_task_2
+15:0:18,page_3_task_1
+15:0:46,page_3_task_2
+15:1:11,page_4_task_1
+15:1:16,page_4_task_2
+15:1:36,page_5_task_1
+15:1:39,page_5_task_2
+15:2:55,page_6_task_1
+15:3:3,page_6_task_2
